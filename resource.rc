@@ -1,0 +1,8 @@
+#pragma code_page(65001)
+#include <winres.h>
+#include "resource.h"
+
+1 24 "app.manifest"
+
+IDI_APP   ICON   "app.ico"
+IDR_AUDIO RCDATA "万相由心何妨问天机.mp3"
